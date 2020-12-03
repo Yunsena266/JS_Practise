@@ -1,0 +1,7 @@
+<button onclick="SayHi(); AskQuestion();">Нажми на меня</button>
+function SayHi () {
+	alert("Hello, World")
+}
+function AskQuestion () {
+	alert("How are you?")
+}
