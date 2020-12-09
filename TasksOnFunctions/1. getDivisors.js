@@ -1,3 +1,6 @@
+/*
+Write a function getDivisors which accepts a number and print an array of number's divisors.
+*/
 let OurNumber = Number(prompt('Enter the number',1));
 function getDivisors (Value) {
 	  let mas = [];
