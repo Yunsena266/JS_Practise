@@ -1,3 +1,6 @@
+/*
+Find a sum of values in object.
+*/
 let salaries = {
   John: 100,
   Ann: 160,
