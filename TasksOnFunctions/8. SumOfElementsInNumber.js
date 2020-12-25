@@ -1,3 +1,6 @@
+/*
+Write a function which accept a numeric value and print the sum of it numbers. 
+*/
 let value = 88;
 	let Sum = 0;
 function SumOfElements (Value) {
