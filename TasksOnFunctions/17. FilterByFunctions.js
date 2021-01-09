@@ -18,8 +18,10 @@ function inBetween(a, b) {
 };
 
 function inArray([...]) {
+return function(item) {
 	let ar = [...];
 	return( ar.includes(item)) 
+		  }
 	
 };
 
